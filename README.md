@@ -22,6 +22,7 @@ Auto Services Guide va folosi urmatoarele:
 Primele trei sunt obligatorii, Nodejs il folositi sa rulati aplicatia pe localhost, Mocha/Jest/Enzime pentru partea de testare, iar Bootstrap este optional, altfel folositi media queries pentru design responsive, design-ul va fi cum doriti voi.
 
 **GIT**
+
 Vom folosi acest repository pentru a urca proiectul final si fiecare va crea un branch nou din master:
 
 * git clone
